@@ -1,0 +1,14 @@
+{
+  "name": "country-selection",
+  "version": "0.0.1",
+  "description": "Find and add countries",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Lucas Salvatore"
+}
